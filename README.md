@@ -12,7 +12,7 @@
   - 💬 Tenho 19 anos e atualmente moro no Brasil. Estou adiquirindo
 experiência com SQL, Python, Análise de Dados, Java Script e banco de dados. Atualmente estou cursando Analise e Desenvolveminto de Sistemas na Universidade de Sao Caetano do Sul (USCS). A Cada dia estou estudando e aprimorando mais minhas habilidades em linguagens de programaçao, para que eu possa ser um bom e otimo programador.
 
-  - ⚡ Gosto muito de praticar esporte, jogar video game, aprender coisas novas sobre o avanço da tecnologia...Sou uma pessoa muita organizada e competitiva e sempre disposto a dar o meu melhor em qualquer situaçao.
+  - ⚡ Gosto muito de praticar esporte, jogar video game, aprender coisas novas sobre o avanço da tecnologia...
     
 </details>
 
